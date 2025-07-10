@@ -1,5 +1,7 @@
 # Hospital_Emergency_Room_Dashboard-using-Excel
-I have created dashboard to find out meaningful insights on Hospital Emergency Room data
+
+
+**Create a hospital Emergancy Room Analysis Dashboard in EXCEL to improve efficiency and provide useful inshights. This dahboard will help decisins for managing patients and improving servives**
 
 
 
